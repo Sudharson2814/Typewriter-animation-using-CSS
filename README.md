@@ -5,7 +5,7 @@ Certainly! Below is a sample README file content for a Typewriter Animation usin
 # Typewriter Animation Using CSS
 ![image](https://github.com/Sudharson2814/Typewriter-animation-using-CSS/assets/122036318/b474ca1e-fc88-444f-bcb2-548d7e43b2fb)
 
-(![image](https://github.com/Sudharson2814/Typewriter-animation-using-CSS/assets/122036318/90476556-d17d-4483-a88b-deb633306238)
+![image](https://github.com/Sudharson2814/Typewriter-animation-using-CSS/assets/122036318/90476556-d17d-4483-a88b-deb633306238)
 
 
 
