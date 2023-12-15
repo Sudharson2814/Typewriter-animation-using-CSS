@@ -28,7 +28,7 @@ This project demonstrates a simple typewriter animation using CSS. The typewrite
 
 ## Customization
 
-To customize the typewriter animation, you can modify the following in the `styles.css` file:
+To customize the typewriter animation, you can modify the following in the `index.html` file:
 
 - **Text Content:** Update the text inside the `.typewriter-text` class.
 - **Animation Speed:** Adjust the `animation-duration` property to control the speed of the typewriter effect.
